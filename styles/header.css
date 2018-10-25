@@ -79,7 +79,7 @@ img:not(.steac3) {
 }
 .fot2 {
   top: 300px;
-  left: 1000px;
+  right: 80px;
 
   width: 440px;
   height: 300px;
@@ -87,8 +87,8 @@ img:not(.steac3) {
   transform: rotate(10deg);
 }
 .b {
-  top: 150px;
-  left: 1100px;
+  top: 155px;
+  right: 70px;
 
   transform: scale(-1, 1);
 }
@@ -101,7 +101,7 @@ p.i, p.krg {
 }
 .krg {
   top: 220px;
-  left: 1135px;
+  right: 105px;
 }
 .steac1 {
   top: 440px;
